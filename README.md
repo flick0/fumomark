@@ -1,15 +1,7 @@
+# Fumomark
 
-# Starter Config
+your not so accurate benchmark featuring cirno
 
-if suggestions don't work, first make sure
-you have TypeScript LSP working in your editor
 
-if you do not want typechecking only suggestions
+https://github.com/flick0/fumomark/assets/77581181/83cfd0c8-598b-4614-aafa-5745eb0ffba7
 
-```json
-// tsconfig.json
-"checkJs": false
-```
-
-types are symlinked to:
-/usr/share/com.github.Aylur.ags/types
